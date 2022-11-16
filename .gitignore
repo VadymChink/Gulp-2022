@@ -1,0 +1,6 @@
+/.idea
+Gulp-2022.iml
+node_modules
+dist
+package-lock.json
+gulp/version.json
